@@ -10,6 +10,11 @@ This is my most recent version of the project that is compiled in C using the Ub
 For this project I had to research pthreads outside of the classroom and apply them to my code.
 This project is complete and updated to its current version.
 
+--Jokes App
+My Jokes app is a locally hosted web app that users can use to log in and view jokes stored on a local MySQL database or enter new jokes after creating a new user using the web app's interface.
+This app is made with PHP and utilizes MAMP to be locally hosted.
+It is connected to a MySQL database and has security techniques implemented to protect against SQL Injections.  
+
 --Personal Cloud Storage (Personal Project) [Implementation not started]
 My personal cloud storage is a project I plan on implementing once I can access a Raspberry Pi model Zero 2 W or above.
 My goal is to create my own personal cloud storage that I can access remotely and locally through my own cloud network.
