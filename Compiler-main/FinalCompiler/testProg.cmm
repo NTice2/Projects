@@ -1,0 +1,7 @@
+int x;
+int y;
+int z;
+z = 4;
+y = 4;
+x = y+1;
+write x;
