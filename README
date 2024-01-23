@@ -15,6 +15,3 @@ My Jokes app is a locally hosted web app that users can use to log in and view j
 This app is made with PHP and utilizes MAMP to be locally hosted.
 It is connected to a MySQL database and has security techniques implemented to protect against SQL Injections.  
 
---Personal Cloud Storage (Personal Project) [Implementation not started]
-My personal cloud storage is a project I plan on implementing once I can access a Raspberry Pi model Zero 2 W or above.
-My goal is to create my own personal cloud storage that I can access remotely and locally through my own cloud network.
