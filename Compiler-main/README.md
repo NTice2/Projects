@@ -1,12 +1,12 @@
 # Compiler
 c-- compiler
 
-Compiler By Nic Tice and Sammie Vaicius
+Compiler developed by Nicholas Tice and Sammantha Vaicius
 
-Compiler version 1.0 can handle the addition of variables as well as any number of integers. 
+C- compiler that handles sample code and compiles it to assembly code that can be run to produce the same output.
 
-Compiler Version 1.0 is located in the FinalCompiler folder
+In this compiler, we utilize a lexical analyzer, symbol table, abstract syntax tree, and assembly header files coded in C# to run and compile code.
 
-Beta Version 0.21 is our compiler to parse and handle functions.
+Our compiler can handle functions, simple mathematical expressions, the declaration of arrays as well as if statements and while loops.  
 
 Components of Compiler: lexer.l IRcode.h Makefile parser.y testProg.cmm symbolTable.h Assembly.h AST.h
