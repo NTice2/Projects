@@ -1,13 +1,13 @@
 --RungeNT (School Project) [Implemented]
-RungeNT is a completed project that was created with the goal of developing a ordinary differential equation solver that utilized the Runge Kutta Method. 
-This is my first implementation of this method and my first attempt at creating such program.
-Within this project I used my knowledge of the python language and python packages such as Numpy, Scipy, and Matplotlib. 
+RungeNT is a completed project that was created to develop an ordinary differential equation solver that utilized the Runge-Kutta Method. 
+This is my first implementation of this method and my first attempt at creating such a program.
+Within this project, I used my knowledge of the Python language and Python packages such as Numpy, Scipy, and Matplotlib. 
 This project is complete and is updated to its current version.
 
 --ProdsCons.c (School Project) [Implemented]
-ProdsCons.c is a completed project with the goal of solving the producer consumer problem using pthreads in C. 
-This is my most recent version of the project that is compiled in C using the Ubuntu Linux terminal.
-For this project I had to research pthreads outside of the classroom and apply them to my code.
+ProdsCons.c is a completed project to solve the producer-consumer problem using threads in C. 
+This is my most recent version of the project which is compiled in C using the Ubuntu Linux terminal.
+For this project, I had to research threads outside of the classroom and apply them to my code.
 This project is complete and updated to its current version.
 
 --Jokes App
