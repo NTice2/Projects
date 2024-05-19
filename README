@@ -10,8 +10,10 @@ This is my most recent version of the project which is compiled in C using the U
 For this project, I had to research threads outside of the classroom and apply them to my code.
 This project is complete and updated to its current version.
 
---Jokes App
+--Jokes App 
 My Jokes app is a locally hosted web app that users can use to log in and view jokes stored on a local MySQL database or enter new jokes after creating a new user using the web app's interface.
 This app is made with PHP and utilizes MAMP to be locally hosted.
 It is connected to a MySQL database and has security techniques implemented to protect against SQL Injections.  
+
+Other projects uploaded include various projects and side personal projects.
 
