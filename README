@@ -12,8 +12,15 @@ This project is complete and updated to its current version.
 
 --Jokes App 
 My Jokes app is a locally hosted web app that users can use to log in and view jokes stored on a local MySQL database or enter new jokes after creating a new user using the web app's interface.
-This app is made with PHP and utilizes MAMP to be locally hosted.
+This app is made with PHP and utilizes MAMP to host locally.
 It is connected to a MySQL database and has security techniques implemented to protect against SQL Injections.  
+
+--Clinical Web App
+I led a small team in the development of this application. This app serves as a mental health journaling app. 
+Features included an Administrator portal, a therapist portal, and a patient portal.
+MongoDB was used to securely store user logins and journal entries via text, audio, and video. 
+The UI implemented was an altered version of an HTML template. The full application code belongs to the company Sensym, where I conducted research and development.
+This application was apart of GCU's research development program in which I had a Full Stack Developer Team Lead role.
 
 Other projects uploaded include various projects and side personal projects.
 
