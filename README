@@ -15,7 +15,7 @@ My Jokes app is a locally hosted web app that users can use to log in and view j
 This app is made with PHP and utilizes MAMP to host locally.
 It is connected to a MySQL database and has security techniques implemented to protect against SQL Injections.  
 
---Clinical Web App
+--Sensym CLinical Web App
 I led a small team in the development of this application. This app serves as a mental health journaling app. 
 Features included an Administrator portal, a therapist portal, and a patient portal.
 MongoDB was used to securely store user logins and journal entries via text, audio, and video. 
