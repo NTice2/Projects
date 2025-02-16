@@ -3,8 +3,7 @@ This personal project I made for fun uses the OpenWeather API to provide weather
 It features a small input box to gather a city name and fetch the weather details.
 It provides Fahrenheit Temperature, Humidity %, and basic weather conditions of the given city.
 I plan to expand on this web application but the working 1.0 version is completed. 
-
-![Image](https://github.com/user-attachments/assets/a8587a06-17db-43a4-aa58-28e4b9d04101)
+(https://github.com/user-attachments/assets/a8587a06-17db-43a4-aa58-28e4b9d04101)
 
 
 
