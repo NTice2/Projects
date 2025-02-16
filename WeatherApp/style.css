@@ -1,0 +1,41 @@
+body { /* background */
+    font-family: 'Roboto', sans-serif;
+    background-color: #c0fffc;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h1{ /*Weather app title */
+    margin: 0 auto;
+    margin-bottom: 20px;
+    color:rgb(75, 72, 255);
+    width: fit-content;
+}
+
+.container { /* container for title and other elements */
+    margin-top: 60px; 
+}
+
+input[type="text"] { /* text box */
+    padding: 3px;
+    margin-right: 10px;
+}
+
+button { /* get weather button */
+    padding: 3px;
+}
+
+.weatherBox { /* container for weather details */
+    margin-top: 20px; 
+    margin-bottom: 5px;
+    width: 13.5%; 
+    margin: 0 auto; 
+    padding: 10px;
+    border: 1px solid rgb(167, 167, 167);
+    border-radius: 5px;
+    background-color: #cac9c9;
+}
+
+.weatherBox h2, .weatherBox p {
+    margin: 7px; /* Adjust margin to control spacing */
+}
